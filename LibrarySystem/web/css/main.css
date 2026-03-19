@@ -1,0 +1,27 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 09 Nov 2025, 16:56:20
+    Author     : malos
+*/
+body {
+    background: linear-gradient(135deg, #007bff, #6610f2);
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+}
+
+.card {
+    border-radius: 15px;
+    background-color: #fff;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
